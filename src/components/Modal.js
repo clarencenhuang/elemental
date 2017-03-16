@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import ReactDOM from 'react/react-dom';
 import Transition from 'react-addons-css-transition-group';
 import blacklist from 'blacklist';
 import classNames from 'classnames';
